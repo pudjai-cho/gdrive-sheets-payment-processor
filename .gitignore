@@ -1,0 +1,4 @@
+# Credentials & Environment
+.env
+.env.*
+service_account.json
